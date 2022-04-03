@@ -398,18 +398,18 @@ header {
 }
 
 /* my Projects*/
-#what .items {
+#work .items {
   display: grid;
   padding: 1rem;
 }
 
-#what .items .item {
+#work .items .item {
   flex: 1;
   text-align: center;
   padding: 1rem;
 }
 
-#what .items .item i {
+#work .items .item i {
   background: var(--clr-accent);
   padding: 1rem;
   border-radius: 50%;
